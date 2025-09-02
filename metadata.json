@@ -1,0 +1,5 @@
+{
+  "name": "Sistema de Gestión de Almacén Con tienda online externa a modo de prueba 6.2",
+  "description": "Una aplicación web completa diseñada para verse y sentirse como un sistema de gestión de almacenes de escritorio. Permite a los usuarios realizar un seguimiento del inventario, gestionar pedidos y ver métricas clave en un panel de control.",
+  "requestFramePermissions": []
+}
